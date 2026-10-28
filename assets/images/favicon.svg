@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Saung Lobster Denay Farm">
+    <rect width="64" height="64" rx="15" fill="#063442"/>
+    <g transform="translate(8 8)">
+        <circle cx="24" cy="24" r="22" fill="none" stroke="rgba(255,255,255,.22)" stroke-width="1"/>
+        <path d="M33 20c4-5 7-8 10-9M34 23c4-3 7-4 10-4" fill="none" stroke="#F47B5A" stroke-width="1.6" stroke-linecap="round"/>
+        <path d="M13 24c-3-3-5-5-6-8M12 26c-3-1-5-2-7-4M13 28c-3 1-5 2-7 4" fill="none" stroke="#F4A261" stroke-width="1.6" stroke-linecap="round"/>
+        <path d="M14 24c0-3 3-5 6-5h7c3 0 5 2 5 5s-2 5-5 5h-7c-3 0-6-2-6-5Z" fill="#F47B5A"/>
+        <path d="M19 19v10M24 19v10M29 19v10" stroke="#063442" stroke-width="1.2" opacity=".45"/>
+        <path d="M20 29l-2 5M25 29l-1 6M30 29l2 5" fill="none" stroke="#F4A261" stroke-width="1.4" stroke-linecap="round"/>
+        <circle cx="32.5" cy="22" r="1.1" fill="#063442"/>
+    </g>
+</svg>
